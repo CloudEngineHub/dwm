@@ -26,6 +26,7 @@ Official implementation of **Dexterous World Models**.
 
 ## 🗞️ News
 
+- `October 26, 2026`: We release the full Real-World Dynamic evaluation set (48 Aria-captured samples) on [Hugging Face](https://huggingface.co/datasets/byungjun-kim/DWM-RealWorld-Dynamic).
 - `April 3, 2026`: Code release. We also release the DWM WAN version together.
 - `February 21, 2026`: DWM was accepted to `CVPR 2026`.
 
